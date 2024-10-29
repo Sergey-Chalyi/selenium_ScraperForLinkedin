@@ -1,0 +1,5 @@
+.idea/
+.venv/
+.env
+out.log
+linkedin_cookies.pkl
